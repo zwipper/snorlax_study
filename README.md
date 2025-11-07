@@ -1,3 +1,2 @@
-# snorlax_study
-
+# snorlax_study timer
 
